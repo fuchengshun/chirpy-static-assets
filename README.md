@@ -57,7 +57,7 @@ Static assets (libraries/plugins/web-fonts) required by the [_Chirpy_][chirpy] b
 | [jQuery][jquery]                             |           3.7.0 |
 | [Lazysizes][lazysizes]                       |           5.3.2 |
 | [Magnific Popup][magnific-popup]             |           1.1.0 |
-| [Mermaid][mermaid]                           |           9.4.3 |
+| [Mermaid][mermaid]                           |          10.2.0 |
 | [Simple-Jekyll-Search][simple-jekyll-search] |          1.10.0 |
 | [Tocbot][tocbot]                             |          4.21.0 |
 
